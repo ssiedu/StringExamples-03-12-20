@@ -42,6 +42,7 @@ public class StringMethodsExampleOne {
     }
 }
 /*
+    //Comparison
     boolean equals(Object)
     boolean equalsIgnoreCase(String)
     boolean startsWith(String)      //checks the begining of a string
